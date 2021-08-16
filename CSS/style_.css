@@ -1,0 +1,57 @@
+@font-face {
+    font-family:JosefinSans-Light ;
+    src: url(JosefinSans-Light.ttf);
+}
+
+body{
+    background-color: rgb(228, 227, 227);
+}
+header{
+    background-color:white;
+    height: 123px;
+}
+
+.logo_main{
+    margin: 45px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+
+
+.logo_type{
+    margin-left: 30px;
+}
+nav{
+    background-color: aliceblue;
+    height:122px;
+}
+
+.logo_page{
+    margin:28px 95px 95px 60px;
+}
+
+
+
+#logo_main{
+    margin: 250px 0px 124px 0px;
+}
+
+.li_menu{
+    padding-top: 42px;
+}
+#a_menu{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 25px; 
+    font-family: JosefinSans-Light;
+
+}
+
+#slider{
+    background-color: aliceblue;
+    height:440px;
+}

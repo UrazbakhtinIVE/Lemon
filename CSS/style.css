@@ -1,0 +1,33 @@
+body{
+   
+}
+.wrap{
+   background-color: violet;
+}
+
+
+
+header{
+    padding-top:118px;
+    background-color:f8f8f8;
+}
+#a_menu{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 25px;
+}
+
+#logo{
+   padding-top:250px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+
+nav{
+    background-color:antiquewhite;
+    
+}
