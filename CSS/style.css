@@ -48,15 +48,26 @@ nav{
     text-decoration: none;
     padding-left: 25px; 
     font-family: "JosefinSans-Light";
+    color:black;
 
 }
 
 #slider{
     background-color: aliceblue;
+    margin-top:70px;
     height:440px;
 }
 
 .search_input{
     margin: 38px;
     padding-left: 120px;
+}
+
+slide{
+    background-color: aliceblue;
+    height:440px;
+}
+
+#logo_in_slider{
+    margin: 53px 0px 95px 95px;
 }
