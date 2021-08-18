@@ -3,6 +3,12 @@
     src: url("fonts/JosefinSans-Light");
 }
 
+@font-face {
+    font-family:"PlayfairDisplay-Regular.ttf";
+    src: url("fonts/PlayfairDisplay-Regular");
+}
+
+
 body{
     background-color: rgb(228, 227, 227);
 }
@@ -18,6 +24,7 @@ header{
 ul{
     list-style-type: none;
     display: flex;
+   
 }
 
 
@@ -28,10 +35,11 @@ ul{
 nav{
     background-color: aliceblue;
     height:122px;
+   
 }
 
 .logo_page{
-    margin:28px 95px 95px 60px;
+    margin:28px 65px 95px 60px;
 }
 
 
@@ -42,11 +50,13 @@ nav{
 
 .li_menu{
     padding-top: 42px;
+    
+  
 }
 #a_menu{
     text-transform: uppercase;
     text-decoration: none;
-    padding-left: 25px; 
+    padding-left: 22px; 
     font-family: "JosefinSans-Light";
     color:black;
 
@@ -69,5 +79,27 @@ slide{
 }
 
 #logo_in_slider{
-    margin: 53px 0px 95px 95px;
+    margin: 53px 0px 37px 53px;
+}
+
+.title-ifo{
+    margin: 0px 0px 37px 53px;
+    color: #921026; 
+    font-family: 'PlayfairDisplay-Regular';
+    font-size:24px;
+}
+.slide-cotent{
+    margin: 0px 0px 37px 53px;
+    width:355px;
+}
+
+.lide-button-get{
+    margin: 0px 0px 37px 53px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 22px; 
+    font-family: "JosefinSans-Light";
+    color:black;
+    border:2px double black; 
+    text-align: center;
 }
